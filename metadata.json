@@ -1,0 +1,8 @@
+{
+  "name": "ChatGPT Advanced Pro",
+  "description": "A premium multi-expert AI assistant featuring specialized bots for health, legal, education, and coding, with voice, image, and file support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
